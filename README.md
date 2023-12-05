@@ -10,7 +10,7 @@ Research Lead: Naveen Mukkatt
 ![Poster](https://github.com/ACM-Research/Scaffold/assets/33157393/a25276ab-c9b6-42e3-85d2-49a58b593a8a)
 
 # Introduction
-When solving complex problems in the world of reinforcement learning, AI models, incentivized by reaching the highest reward possible, often exhibit unwanted behaviors. Our research project, Scaffold, demonstrates a possible solution: simplify the complex tasks, and ask the agent to synthesize the tasks together over time, allowing fine control over more complex behaviors. This is similar to scaffolded learning, where educators give less and less support as a person's competence grows[INSERT REFERENCE 1 HERE]. As we train AI-controlled airplanes in Unreal Engine using reinforcement learning, we simplify complex tasks into manageable levels, slowly increasing the difficulty of the task over time in stages, eventually taking the AI from being unable to fly to pulling off dogfights in the air.
+When solving complex problems in the world of reinforcement learning, AI models, incentivized by reaching the highest reward possible, often exhibit unwanted behaviors. Our research project, Scaffold, demonstrates a possible solution: simplify the complex tasks, and ask the agent to synthesize the tasks together over time, allowing fine control over more complex behaviors. This is similar to scaffolded learning, where educators give less and less support as a person's competence grows. As we train AI-controlled airplanes in Unreal Engine using reinforcement learning, we simplify complex tasks into manageable levels, slowly increasing the difficulty of the task over time in stages, eventually taking the AI from being unable to fly to pulling off dogfights in the air.
 
 
 # Creating the Game
