@@ -97,5 +97,6 @@ Schulman, J., Wolski, F., Dhariwal, P., Radford, A., \& Klimov, O. (2017, August
 
 # Demo
 
-[![Scaffold Demo](https://youtu.be/2w9B1pQT_qk)]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2w9B1pQT_qk?si=fbSixu
+
 
